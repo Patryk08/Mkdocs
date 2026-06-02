@@ -32,5 +32,5 @@ Dette er ***ekstremt*** viktig.
 * Første punkt
 * Andre punkt
 * Tredje punkt
-
-![dette er et bilde](images/screen.png)
+#H
+**viktig** melding
