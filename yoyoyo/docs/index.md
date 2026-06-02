@@ -16,21 +16,16 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
 
-Dette er **viktig** tekst.
 
-Dette er ***ekstremt*** viktig.
+* hhh
+* hhh
 
-# Dette er en hovedoverskift 
-## Dette er en underoverskrift 
-### Dette er en mindre underoverskrift 
+`oyyoyooy` - ggg
 
-![Beskrivelse av bildet](https://statik.tempo.co/data/2023/05/18/id_1205135/1205135_720.jpg)
+viktig **tekst**
 
-[Besøk Google her](https://www.google.no)
+![Yallah](images/Foball.webp)
 
+[Yt lnk](https://youtu.be/Nlf6DIkSiL8?si=PXatH3GqBCjbg6Zw)
 
-* Første punkt
-* Andre punkt
-* Tredje punkt
-#H
-**viktig** melding
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2V0oAexHLUw?si=L9TyYWRQTU78aFmz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
